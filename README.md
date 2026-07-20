@@ -2,57 +2,85 @@
 
 # Yingzi
 
-### Java Backend Engineer · AI Application Builder
+## Java 后端开发者 · AI 应用构建者
 
-专注于 **Java 后端开发**，探索 **Java × AI** 的工程化落地。
+专注于构建可靠的后端系统，探索 Java 与 AI 结合的实际应用。
 
-[![GitHub](https://img.shields.io/badge/GitHub-yimgzi001-181717?logo=github)](https://github.com/yimgzi001)
+**Build the backend carefully. Add AI where it creates real value.**
+
 [![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Engineering-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![AI](https://img.shields.io/badge/AI-Applications-412991?logo=openai&logoColor=white)](https://openai.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-工程实践-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Backend](https://img.shields.io/badge/Backend-系统开发-2563EB)](https://github.com/yimgzi001)
+[![AI](https://img.shields.io/badge/Java%20%C3%97%20AI-应用探索-7C3AED)](https://github.com/yimgzi001)
 
 </div>
 
-## About me
+## 关于我
 
-我是一名专注于后端工程与 AI 应用的开发者，主要使用 Java 构建可靠、可维护、可扩展的服务，也关注如何把大模型能力真正接入业务系统。
+我专注于使用 **Java** 和 **Spring 生态**构建可靠、可维护、可扩展的后端服务。
 
-- 主要方向：Java 后端、Spring Boot、Web 服务与系统设计
-- 正在探索：Java × AI、RAG、Agent、模型 API 集成与智能工作流
-- 工程关注：接口设计、数据持久化、缓存、异步处理、可观测性与部署
-- 学习方式：持续实践，把想法做成可以运行和迭代的项目
+同时，我也在探索如何把大模型能力真正接入后端系统，包括 LLM API、RAG、Agent 和智能自动化，让 AI 不只是一个演示功能，而是能够在实际系统中稳定运行、持续迭代的能力。
 
-## Tech focus
+## 主要方向
+
+### Java 后端
+
+- Java 基础与面向对象设计
+- Spring Boot / Spring MVC
+- RESTful API 与服务端架构
+- MySQL、Redis 与数据持久化
+- 参数校验、异常处理与接口规范
+- 异步任务、缓存和基础性能优化
+
+### Java × AI
+
+- 在 Java 服务中集成 LLM API
+- 对话接口与流式响应
+- Prompt、上下文和会话管理
+- RAG：文档处理、切分、Embedding 与向量检索
+- Agent：工具调用、任务编排与结构化输出
+- AI 能力在业务系统和自动化流程中的落地
+
+### 工程实践
+
+- Maven、Git、Linux、Docker
+- API 设计与系统设计
+- 测试、日志和错误处理
+- 部署、CI/CD 与基础可观测性
+- 从原型到可维护项目的持续迭代
+
+## 技术栈
 
 ```text
-Backend      Java · Spring Boot · Spring MVC · REST API · MySQL · Redis
-AI           LLM API · RAG · Embeddings · Agent · Prompt Engineering
-Engineering  Maven · Git · Linux · Docker · CI/CD · System Design
-Frontend     TypeScript · Next.js · HTML/CSS（用于全栈协作与产品验证）
+后端       Java · Spring Boot · Spring MVC · REST API
+数据       MySQL · Redis · MyBatis / JPA
+AI         LLM API · RAG · Embeddings · Vector Search · Agents
+工程       Maven · Git · Linux · Docker · CI/CD
+辅助       TypeScript · Next.js · HTML/CSS · 自动化脚本
 ```
 
-## What I build
+## 当前正在学习和构建
 
-- 面向真实业务的 Java 后端服务与 REST API
-- Java 应用中的大模型、知识库和智能 Agent 能力
-- 可维护的数据库、缓存和异步任务架构
-- 从原型到部署的完整开发流程
-- 帮助个人和团队减少重复工作的自动化工具
+- 夯实 Java 与 Spring 后端基础
+- 设计更清晰、更可靠的服务端 API
+- 将 AI 能力接入 Java 后端应用
+- 探索 RAG、Agent 和模型集成
+- 把小型实验逐步打磨成可维护的项目
 
-## Current direction
+> 项目会在整理和完善后逐步公开。
+
+## 我的开发理念
 
 > **用 Java 打好工程基础，用 AI 扩展软件的能力边界。**
+>
+> 先把后端系统构建扎实，再在真正有价值的地方加入 AI。
 
-目前重点关注 Java 后端基础能力、Spring 生态、系统设计，以及 AI 在开发工具、知识管理和业务自动化中的实际应用。
+## 联系与交流
 
-## GitHub
-
-这里会记录我的学习、实验和项目实践：有些项目用于公开展示，有些项目用于持续开发和验证想法。
-
-欢迎通过 [Issues](https://github.com/yimgzi001/yimgzi001/issues) 交流技术问题或项目想法。
+欢迎通过 [Issues](https://github.com/yimgzi001/yimgzi001/issues) 交流技术问题、学习想法或项目合作。
 
 <div align="center">
 
-**Build reliable systems. Explore intelligent applications.**
+持续学习，持续构建。
 
 </div>

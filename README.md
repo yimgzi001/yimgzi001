@@ -2,85 +2,55 @@
 
 # Yingzi
 
-## Java 后端开发者 · AI 应用构建者
-
-专注于构建可靠的后端系统，探索 Java 与 AI 结合的实际应用。
-
-**Build the backend carefully. Add AI where it creates real value.**
-
-[![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-工程实践-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Backend](https://img.shields.io/badge/Backend-系统开发-2563EB)](https://github.com/yimgzi001)
-[![AI](https://img.shields.io/badge/Java%20%C3%97%20AI-应用探索-7C3AED)](https://github.com/yimgzi001)
+**Java 后端开发，最近在认真研究 Java + AI。**
 
 </div>
 
-## 关于我
+## 我是谁
 
-我专注于使用 **Java** 和 **Spring 生态**构建可靠、可维护、可扩展的后端服务。
+我主要写 Java 后端。
 
-同时，我也在探索如何把大模型能力真正接入后端系统，包括 LLM API、RAG、Agent 和智能自动化，让 AI 不只是一个演示功能，而是能够在实际系统中稳定运行、持续迭代的能力。
+平时更关心服务怎么设计、接口怎么写、数据怎么存，以及一个项目上线之后能不能安稳地跑起来。现在也在把 AI 加进这些东西里，想看看大模型、RAG 和 Agent 到底能不能在实际项目里帮上忙，而不只是做个聊天 Demo。
 
-## 主要方向
+目前还在积累阶段，很多东西会边学边做。这个主页和下面的仓库，主要用来记录我做过的实验和一些还没完全做好的项目。
 
-### Java 后端
+## 我在关注什么
 
-- Java 基础与面向对象设计
-- Spring Boot / Spring MVC
-- RESTful API 与服务端架构
-- MySQL、Redis 与数据持久化
-- 参数校验、异常处理与接口规范
-- 异步任务、缓存和基础性能优化
-
-### Java × AI
-
-- 在 Java 服务中集成 LLM API
-- 对话接口与流式响应
-- Prompt、上下文和会话管理
-- RAG：文档处理、切分、Embedding 与向量检索
-- Agent：工具调用、任务编排与结构化输出
-- AI 能力在业务系统和自动化流程中的落地
-
-### 工程实践
-
-- Maven、Git、Linux、Docker
-- API 设计与系统设计
-- 测试、日志和错误处理
-- 部署、CI/CD 与基础可观测性
-- 从原型到可维护项目的持续迭代
+- Java 和 Spring Boot 后端开发
+- REST API、数据库设计、缓存和异步任务
+- MySQL、Redis，以及服务端常见的问题
+- 在 Java 项目里接入大模型 API
+- RAG、向量检索、Agent 和工具调用
+- Linux、Docker、部署，以及把项目真正跑起来
 
 ## 技术栈
 
 ```text
-后端       Java · Spring Boot · Spring MVC · REST API
-数据       MySQL · Redis · MyBatis / JPA
-AI         LLM API · RAG · Embeddings · Vector Search · Agents
-工程       Maven · Git · Linux · Docker · CI/CD
-辅助       TypeScript · Next.js · HTML/CSS · 自动化脚本
+Java          Spring Boot · Spring MVC · MyBatis / JPA
+数据          MySQL · Redis
+AI            LLM API · RAG · Embeddings · Agents
+工程          Maven · Git · Linux · Docker
+其他          TypeScript · Next.js · 自动化脚本
 ```
 
-## 当前正在学习和构建
+## 最近在做的事
 
-- 夯实 Java 与 Spring 后端基础
-- 设计更清晰、更可靠的服务端 API
-- 将 AI 能力接入 Java 后端应用
-- 探索 RAG、Agent 和模型集成
-- 把小型实验逐步打磨成可维护的项目
+我想先把 Java 后端的基础打牢，再把 AI 能力一点点放进后端服务里。比如：
 
-> 项目会在整理和完善后逐步公开。
+- 做一个结构清楚、能正常部署的 Spring Boot 项目
+- 试着把对话、知识库和模型调用接到 Java 服务里
+- 记录开发过程中遇到的坑，而不是只留下一个能跑的 Demo
 
-## 我的开发理念
+项目整理好之后，我会挑一些公开出来。
 
-> **用 Java 打好工程基础，用 AI 扩展软件的能力边界。**
->
-> 先把后端系统构建扎实，再在真正有价值的地方加入 AI。
+## 这里会有什么
 
-## 联系与交流
+这里不会只放“完成品”。有些仓库是练习，有些是实验，也有些会慢慢变成真正的项目。如果某个东西看起来比较粗糙，通常说明它还在改。
 
-欢迎通过 [Issues](https://github.com/yimgzi001/yimgzi001/issues) 交流技术问题、学习想法或项目合作。
+如果你对某个项目有想法，欢迎提 Issue。
 
 <div align="center">
 
-持续学习，持续构建。
+慢慢写，慢慢变好。
 
 </div>

@@ -6,6 +6,14 @@
 
 面向业务构建稳定、清晰、可演进的后端系统。
 
+[![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-工程实践-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-分布式服务-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-cloud)
+[![MySQL](https://img.shields.io/badge/MySQL-数据持久化-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-缓存与中间件-DC382D?logo=redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-部署实践-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![AI](https://img.shields.io/badge/Java%20%C3%97%20AI-应用探索-7C3AED)](https://github.com/yimgzi001)
+
 </div>
 
 ## 简介

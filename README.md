@@ -2,50 +2,57 @@
 
 # Yingzi
 
-**AI × 全栈开发 × 自动化**
+### Java Backend Engineer · AI Application Builder
 
-把想法做成产品，把重复工作变成自动化。
+专注于 **Java 后端开发**，探索 **Java × AI** 的工程化落地。
 
 [![GitHub](https://img.shields.io/badge/GitHub-yimgzi001-181717?logo=github)](https://github.com/yimgzi001)
-[![Profile](https://img.shields.io/badge/Profile-欢迎交流-2ea44f)](https://github.com/yimgzi001)
+[![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Engineering-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![AI](https://img.shields.io/badge/AI-Applications-412991?logo=openai&logoColor=white)](https://openai.com/)
 
 </div>
 
 ## About me
 
-- 关注 AI 应用、全栈开发与开发者工具
-- 喜欢把复杂流程拆解成可执行、可维护的系统
-- 正在探索 AI Agent、自动化工作流和 Web 产品
+我是一名专注于后端工程与 AI 应用的开发者，主要使用 Java 构建可靠、可维护、可扩展的服务，也关注如何把大模型能力真正接入业务系统。
 
-## Focus
+- 主要方向：Java 后端、Spring Boot、Web 服务与系统设计
+- 正在探索：Java × AI、RAG、Agent、模型 API 集成与智能工作流
+- 工程关注：接口设计、数据持久化、缓存、异步处理、可观测性与部署
+- 学习方式：持续实践，把想法做成可以运行和迭代的项目
+
+## Tech focus
 
 ```text
-AI 应用        Agent / 自动化 / 智能工作流
-全栈开发       TypeScript / Java / Web
-工程实践       产品化 / 部署 / 持续迭代
+Backend      Java · Spring Boot · Spring MVC · REST API · MySQL · Redis
+AI           LLM API · RAG · Embeddings · Agent · Prompt Engineering
+Engineering  Maven · Git · Linux · Docker · CI/CD · System Design
+Frontend     TypeScript · Next.js · HTML/CSS（用于全栈协作与产品验证）
 ```
 
-## Selected projects
+## What I build
 
-| Project | Description |
-| --- | --- |
-| [career-ops](https://github.com/yimgzi001/career-ops) | AI 驱动的求职与职业运营系统 |
-| [windsurf-project](https://github.com/yimgzi001/windsurf-project) | Web / TypeScript 项目实践 |
-| [gameonline](https://github.com/yimgzi001/gameonline) | 在线网页游戏项目 |
-| [myself](https://github.com/yimgzi001/myself) | 个人主页实验 |
+- 面向真实业务的 Java 后端服务与 REST API
+- Java 应用中的大模型、知识库和智能 Agent 能力
+- 可维护的数据库、缓存和异步任务架构
+- 从原型到部署的完整开发流程
+- 帮助个人和团队减少重复工作的自动化工具
 
-## Now building
+## Current direction
 
-- 更实用的 AI 工具与自动化工作流
-- 更清晰、更易维护的全栈项目
-- 从原型到可用产品的工程化实践
+> **用 Java 打好工程基础，用 AI 扩展软件的能力边界。**
 
-## Contact
+目前重点关注 Java 后端基础能力、Spring 生态、系统设计，以及 AI 在开发工具、知识管理和业务自动化中的实际应用。
 
-欢迎通过 GitHub Issues 或 Discussions 交流想法与合作。
+## GitHub
+
+这里会记录我的学习、实验和项目实践：有些项目用于公开展示，有些项目用于持续开发和验证想法。
+
+欢迎通过 [Issues](https://github.com/yimgzi001/yimgzi001/issues) 交流技术问题或项目想法。
 
 <div align="center">
 
-_Keep building. Keep learning._
+**Build reliable systems. Explore intelligent applications.**
 
 </div>
